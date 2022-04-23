@@ -1,0 +1,6 @@
+
+- Evitar el uso de guiones.
+- Seguir la nomenclatura del lenguaje de programacion.
+- No ahorrarse palabras.
+- Evitar informacion tecnica en los nombres.
+- Nombres en ingles

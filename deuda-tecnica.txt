@@ -1,0 +1,25 @@
+Falta de calidad en el codigo, que genera una deuda que repercutira en costos futuros
+
+Costos economicos:
+- Tiempo en realizar mantenimientos.
+- Tiempo en refactorizar codigo.
+- Tiempo en comprender el codigo.
+- Tiempo adicional en la transferencia del codigo.
+
+Esquema de deuda tecnica:
+- Imprudente: No hay tiempo, solo copia y pega eso de nuevo
+- Imprudente/Inadvertido: Sin conocimientos para el desarollo, Jr o falso Sr
+- Prudente: Tenemos que entregar rapido, ya refactorizaremos
+- Prudente/Inadvertido: Ahora sabemos como lo deberiamos haber hecho
+
+Refactorizacion: Proceso que tien como objetivo mejorar el codigo sin alterar su comportamiento para que sea mas entendible y tolerante a cambios.
+
+Usualmente para que una refactorizacion fuerte tenga el objetivo esperado es imprecindible contar con pruebas automaticas.
+
+La mala calidad en el software siempre la acaba pagando o asumiento alguien, ya sea el cliente, el proveedor con recursos o el propio desarrollador dedicando tiempo a refactorizar o malgastando tiempo programando sobre un sistema fragil.
+
+CLEAN CODE
+- Codigo limpio es aquel que se ha escrito con la intencion de que otra persona o tu mismo lo entienda.
+- Nuestro codigo tiene que ser simple y directo, deberia leerse con las misma facilidad de un texto bien escrito.
+- Programar es el arte de decirle a otro humano lo que quieres que la computadora haga.
+
