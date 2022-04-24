@@ -1,0 +1,4 @@
+- Arreglos en plural
+- Booleanos con is, can, has en positivo
+- Numericos con max, min, total, of
+- Funciones representan acciones con verbos seguidos con un sustantivo descriptivo 

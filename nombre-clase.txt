@@ -1,0 +1,7 @@
+- Nombres formados por un sustantivo o frases de sustantivo
+- No debe ser generico
+- Usar UpperCamelCase
+
+* Que exactamente hace la clase
+* Como hace la tarea
+* Relacion con su ubicacion

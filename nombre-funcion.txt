@@ -1,0 +1,9 @@
+- Los nombres de las funciones tienen que describir exactamente lo que hace la funcion
+- Limitar parametros y argumentos a 3 parametros posicionales
+- Simplicidad es fundamental en las funciones
+- Funciones deben tener un tamanio reducido
+- Funciones de una sola linea sin causar complejidad
+- Menos de 20 lineas de codigo en las funciones
+- Evitar el uso del else
+- Prioriza el uso de la condicional ternaria
+- Evitar muchas identaciones
