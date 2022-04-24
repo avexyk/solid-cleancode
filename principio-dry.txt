@@ -1,0 +1,6 @@
+DRY: Don't Repeat Yourself
+
+- Evitar tener duplicidad de codigo
+- Simplifica las pruebas
+- Centralizar procesos
+- Usar el principio DRY lleva a refactorizar
