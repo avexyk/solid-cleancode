@@ -1,0 +1,15 @@
+
+** ORDEN
+
+Comenzar con lista de propiedades
+- Propiedades estaticas
+- Propiedades publicas de ultimo
+- Propiedades privadas
+
+Metodos
+- Constructores estaticos
+- Constructor
+- Metodos estaticos
+- Metodos privados
+- Metodos de instancia ordenados de mayor a menor importancia
+- Getters y Setters

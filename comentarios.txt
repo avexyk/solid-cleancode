@@ -1,0 +1,3 @@
+
+- Evitar usar comentarios, a menos que se usen librerias de terceros, APIS, frameworks, etc.
+- Si se cabe la necesidad de realizar comentarios se debe refactorizar como primera alternativa.
