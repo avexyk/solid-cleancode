@@ -1,0 +1,10 @@
+
+STUPID ( Code Smells )
+
+- Singleton: patron Singleton
+- Tight Coupling: alto acoplamiento
+- Untestability: codigo no probable (unit test)
+- Premature optimization: optimizaciones prematuras
+- Indescriptive Naming: nombres poco descriptivos
+- Duplication: duplicidad de codigo, no aplicar el principio DRY
+
